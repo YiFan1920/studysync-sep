@@ -65,6 +65,13 @@ StudySync is a gamified study app where users can:
 
 Our product vision is to make studying feel less lonely, more engaging, and more sustainable as a habit.
 
+![StudySync Page Preview](Images/4.png)
+![StudySync Page Preview](Images/3.png)
+![StudySync Page Preview](Images/5.png)
+![StudySync Page Preview](Images/6.png)
+![StudySync Page Preview](Images/7.png)
+![StudySync Page Preview](Images/8.png)
+
 ---
 
 ## 5. Team Composition
@@ -91,10 +98,6 @@ Our product vision is to make studying feel less lonely, more engaging, and more
 
 - **SEP Funding Amount:** S$1,500
 
-This support is being used to help advance the development and growth of StudySync, including product refinement, launch support, marketing and related operating needs.
-
-> Additional finance details can be provided separately if required.
-
 ---
 
 ## 8. Current Status
@@ -103,36 +106,8 @@ This support is being used to help advance the development and growth of StudySy
 - As of **18 March 2026**, StudySync has achieved:
   - **200 downloads**
 - We continue to refine the app based on user feedback and usage data.
-
----
-
-## 9. Progress Summary
-
-Key progress achieved to date includes:
-- conceptualising and designing the StudySync product experience,
-- developing the mobile app,
-- building the supporting backend,
-- beta testing with early users,
-- fixing critical bugs,
-- launching on the App Store,
-- establishing our website and brand presence.
-
-We have also gained early validation that users are interested in a low-friction, gamified study experience that combines focus with social motivation.
-
----
-
-## 10. Traction
-
-- **200 app downloads** as of 18 March 2026
-- Early user testing and beta feedback collected
-- App successfully launched on App Store
-- Positive user interest in the study-together / gamified concept
-
----
-
-## 11. Awards / Competitions
-
-- **NUS Hack&Roll 2025 – Top 9 Winner**
+![Launch Stats](Images/stats.png)
+![App Store Screenshot](Images/appstore.png)
 
 ---
 
@@ -154,7 +129,7 @@ This section is updated regularly as part of SEP reporting.
 
 ### Progress Update 2 — Launch and Post-Launch Progress
 - **Date:** March 2026
-- **YouTube Link:** [Insert YouTube link here]
+- **YouTube Link:** [Click Here]
 
 ---
 
