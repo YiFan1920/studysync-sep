@@ -1,5 +1,6 @@
 # StudySync
-## Turn Study Time into Game Time
+
+![StudySync Banner](Images/2.png)
 
 StudySync is a gamified focus and virtual study app designed to make independent studying more immersive, motivating, and community-driven.
 
