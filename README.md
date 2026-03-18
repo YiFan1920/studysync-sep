@@ -106,14 +106,14 @@ Our product vision is to make studying feel less lonely, more engaging, and more
 - As of **18 March 2026**, StudySync has achieved:
   - **200 downloads**
 - We continue to refine the app based on user feedback and usage data.
-![Launch Stats](Images/stats.png)
+![Launch Stats](Images/stats.jpg)
 ![App Store Screenshot](Images/appstore.png)
 
 ---
 
 ## 12. Pitch Deck
 
-- [Insert link to pitch deck PDF or Google Drive here]
+- ![Click here for Pitch Deck](https://github.com/YiFan1920/studysync-sep/blob/b7b6ad558637d68e39077e741c25446c487fed78/StudySync%20Pitch%20Deck.pdf)
 
 ---
 
