@@ -65,12 +65,20 @@ StudySync is a gamified study app where users can:
 
 Our product vision is to make studying feel less lonely, more engaging, and more sustainable as a habit.
 
-![StudySync Page Preview](Images/4.png)
-![StudySync Page Preview](Images/3.png)
-![StudySync Page Preview](Images/5.png)
-![StudySync Page Preview](Images/6.png)
-![StudySync Page Preview](Images/7.png)
-![StudySync Page Preview](Images/8.png)
+<p align="center">
+  <img src="Images/3.png" alt="StudySync Preview 3" width="360"/>
+  <img src="Images/4.png" alt="StudySync Preview 4" width="360"/>
+</p>
+
+<p align="center">
+  <img src="Images/5.png" alt="StudySync Preview 5" width="360"/>
+  <img src="Images/6.png" alt="StudySync Preview 6" width="360"/>
+</p>
+
+<p align="center">
+  <img src="Images/7.png" alt="StudySync Preview 7" width="360"/>
+  <img src="Images/8.png" alt="StudySync Preview 8" width="360"/>
+</p>
 
 ---
 
@@ -106,8 +114,12 @@ Our product vision is to make studying feel less lonely, more engaging, and more
 - As of **18 March 2026**, StudySync has achieved:
   - **200 downloads**
 - We continue to refine the app based on user feedback and usage data.
+
 ![Launch Stats](Images/stats.jpg)
-![App Store Screenshot](Images/appstore.png)
+
+<p align="center">
+  <img src="Images/appstore.png" alt="App Store View" width="360"/>
+</p>
 
 ---
 
