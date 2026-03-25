@@ -141,7 +141,7 @@ This section is updated regularly as part of SEP reporting.
 
 ### Progress Update 2 — Launch and Post-Launch Progress
 - **Date:** March 2026
-- **YouTube Link:** [Click Here]
+- **YouTube Link:** [[Click Here](https://youtu.be/_SIlTYSEyTs)]
 
 ---
 
