@@ -31,7 +31,7 @@ Our objectives under SEP are to:
 - improve the app’s user experience and core functionality,
 - build traction through testing, launch, and user feedback,
 - document development and startup progress over time,
-- prepare for future growth through partnerships, marketing, and potential fundraising.
+- prepare for future growth through partnerships, marketing, and potential fundraising
 
 ---
 
