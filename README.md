@@ -98,7 +98,7 @@ Our product vision is to make studying feel less lonely, more engaging, and more
 
 ## 6. Project Start Date
 
-- **Start Date:** October 2025
+- **Start Date:** October 2025.
 
 ---
 
