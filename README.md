@@ -145,6 +145,12 @@ This section is updated regularly as part of SEP reporting.
 
 ---
 
+### Progress Update 3 — Post-Launch Bug Fixes and Enhancements
+- **Date:** May 2026
+- **YouTube Link:** [[Click Here](https://www.youtube.com/watch?v=5sg3jet6TAU)]
+
+___
+
 ## 16. Contact
 
 - Website: **https://studysync.sg**
