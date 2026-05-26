@@ -118,7 +118,7 @@ Our product vision is to make studying feel less lonely, more engaging, and more
 - We continue to refine the app based on user feedback and usage data.
 
 ![Launch Stats](Images/stats.jpg)
-![Launch Stats](Images/stats2.jpg)
+![Launch Stats](Images/stats2.png)
 
 <p align="center">
   <img src="Images/appstore.png" alt="App Store View" width="360"/>
