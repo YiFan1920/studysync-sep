@@ -147,12 +147,17 @@ This section is updated regularly as part of SEP reporting.
 - **YouTube Link:** [[Click Here](https://youtu.be/_SIlTYSEyTs)]
 
 ---
-
 ### Progress Update 3 — Post-Launch Bug Fixes and Enhancements
 - **Date:** May 2026
 - **YouTube Link:** [[Click Here](https://www.youtube.com/watch?v=5sg3jet6TAU)]
 
 ___
+
+### Progress Update 4 — Post-Launch Bug Fixes and Marketing
+- **Date:** July 2026
+- **YouTube Link:** [[Click Here](https://www.youtube.com/watch?v=czoFiuiyrKk)]
+
+__
 
 ## 16. Contact
 
