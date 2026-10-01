@@ -159,6 +159,11 @@ ___
 
 __
 
+### Progress Update 5 — Post-Launch Bug Fixes and User Research
+- **Date:** Sept 2026
+- **YouTube Link:** [[Click Here](https://youtu.be/1aOpSmRoPY0)]
+
+__
 ## 16. Contact
 
 - Website: **https://studysync.sg**
